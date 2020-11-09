@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi I'm ZuiSong  👋
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zuisong&show_icons=true" />
 
+### Hi I'm ZuiSong  👋
