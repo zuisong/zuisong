@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zuisong&show_icons=true" />
-
 ### Hi I'm ZuiSong  👋
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zuisong&langs_count=10&layout=compact" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=zuisong&show_icons=true&layout=compact" />
